@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919888033207",
+    "firebase_url": "https://python-7dcb0-default-rtdb.firebaseio.com",
+    "project_id": "python-7dcb0",
+    "storage_bucket": "python-7dcb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919888033207:android:31bb17ee82a740b3e12432",
+        "android_client_info": {
+          "package_name": "com.raspberry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919888033207-9oshdmg1s87n87jbnilg7tnvlqqmaldg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raspberry",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "919888033207-b2nr3bvf6cbupofvbdrdb2n4vcuusfae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAogYkCY2lOuY502iVTcII_cfJmY3Pokqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919888033207-b2nr3bvf6cbupofvbdrdb2n4vcuusfae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
